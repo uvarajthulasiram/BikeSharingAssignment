@@ -32,15 +32,15 @@ Linear Regression using Statsmodels OLS
 
 Built a multiple linear regression model using the Ordinary Least Squares (OLS) method.
 
-Observed:
+**Observed:**
 
 p-values close to 0, indicating statistical significance of features.
 
-R² Score:
+**R² Score:**
 
-80% on training data
+- 80% on training data
 
-77% on test data
+- 77% on test data
 
 Residuals normally distributed and centered around 0, satisfying linear regression assumptions.
 
@@ -54,8 +54,8 @@ Confirmed no significant patterns, indicating a well-fitted model.
 
 ### Final Model Performance
 
-Training R² Score: 0.80
+- Training R² Score: **0.80**
 
-Test R² Score: 0.77
+- Test R² Score: **0.77**
 
 The model generalizes well with minimal overfitting.
